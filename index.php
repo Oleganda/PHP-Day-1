@@ -116,7 +116,7 @@
             <li class='list-group-item'>This {$item['Name']} is " . ($item["Availability"] ? 'available' : 'not available') . "</li>
         </ul>
         <div class='card-body'>
-            <a href='#' class='card-link'>Buy Now</a>
+            <a href='#' class='card-link'>Buy Now!</a>
         </div>
         </div>
          ";
